@@ -1,5 +1,4 @@
-# Weather-App / php
-Weather-App API Morocco
+# Weather-App Morocco / php
 <!-- Uploading "localhost_Weather-App_.png"... -->
 
 ### Frontend Screenshot
